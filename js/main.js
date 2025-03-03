@@ -307,6 +307,7 @@
 
 		}
 	};
+	
 
 	var sayingsAnimate = function() {
 		var sayings = $('#fh5co-sayings');
